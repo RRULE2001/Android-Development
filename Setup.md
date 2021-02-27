@@ -16,11 +16,14 @@
         - File -> New -> Project -> Basic Application (Android, Ant) -> Next -> Create
         - If you are having trouble finding the applicatoon you can filter by using C++, Android, and Mobile
 
-2. Connecing android device:
+2. Connecting android device:
       - Enable Debugging on your device
       - Enable USB Debugging
-        - These steps are different for Android version so use [this](https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/set-up-device-for-development) 
-
+        - These steps are different for Android version so use [this](https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/set-up-device-for-development)
+      - Download the Windows USB driver for your phone
+        -  [This is what I used for galaxy S8+](https://developer.samsung.com/mobile/android-usb-driver.html)
+      - Connect your phone to PC via USB Cable.
+      - In the complier for my S8+ use **Debug**, **ARM64**, **samsung SM-G955U** then deploy the build by pressing the green arrow next to samsung SM-G955U
 
 3. Creating an Emulator
       - https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/android-emulator/hardware-acceleration?tabs=vswin&pivots=windows#hyper-v
