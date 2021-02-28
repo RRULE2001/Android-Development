@@ -28,9 +28,11 @@
 3. Creating an Emulator
       - https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/android-emulator/hardware-acceleration?tabs=vswin&pivots=windows#hyper-v
 
-
-
-
       - Connect your phone to PC using USB Cable. If succesfully connected, you will find your device in emulators list. Select your device and Run. Application will launch on your device.
       - Other way is to manually create a .apk and and copy that file on to device and install it. This method is lot time consuming and not suitable for development purpose. Details at : http://developer.xamarin.com/guides/android/deployment,_testing,_and_metrics/publishing_an_application/part_1_-_preparing_an_application_for_release/
+
+
+## References
+
+- [Android Development Webstite](https://developer.android.com/studio/intro)
 
