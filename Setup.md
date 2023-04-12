@@ -1,14 +1,16 @@
 # Setting Up
 
 ## Downloads
-1. Download visual studio code community
+1. Download Andriod Studio
+      - [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwrdmhBhBBEiwA4Hx5g9huJ1AF8hFVyLQ23TmOWE7TDnuR_248qK8zyAYQZ1Oc4-FTVtZzNxoC9koQAvD_BwE&gclsrc=aw.ds)
+2. Download visual studio code community
       - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
       - During the donwload, select these Workloads:
         - Mobile devlopment with C++
         - Mobile development with .NET 
-2. Download these extensions:
-      - To download extensions in visual studio go to the **Extensions tab**, then select **Manage Extensions**, the search for the extensions called:
-        - [Java Tools for Android Projects (Visual Studio 2019)](https://marketplace.visualstudio.com/items?itemName=VisualCPPTeam.JavaToolsForAndroidProjVS2019)
+        - Download these extensions:
+            -To download extensions in visual studio go to the **Extensions tab**, then select **Manage Extensions**, the search for the extensions called:
+            - [Java Tools for Android Projects (Visual Studio 2019)](https://marketplace.visualstudio.com/items?itemName=VisualCPPTeam.JavaToolsForAndroidProjVS2019)
 
 ## Creating a Project
 1. Creating a Hello World application
